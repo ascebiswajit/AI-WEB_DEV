@@ -241,6 +241,12 @@ If you encounter any issues or have questions:
 2. Create a new issue with detailed information
 3. Provide steps to reproduce any bugs
 
+Preview of the website : 
+
+<img width="2940" height="5400" alt="image" src="https://github.com/user-attachments/assets/3ac548c1-4ff4-488c-9a49-ac4226af868b" />
+
+Website link : https://ai-web-dev-six.vercel.app/
+
 ---
 
 **Built with ❤️ for the AI community**
