@@ -241,6 +241,8 @@ If you encounter any issues or have questions:
 2. Create a new issue with detailed information
 3. Provide steps to reproduce any bugs
 
+!. https://mgx.dev/app/80e53bcdb9f7403ca98289a2f0de2771 (Here I provide MGX Chat where i built this website)
+
 Preview of the website : 
 
 <img width="2940" height="5400" alt="image" src="https://github.com/user-attachments/assets/3ac548c1-4ff4-488c-9a49-ac4226af868b" />
