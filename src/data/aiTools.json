@@ -1,0 +1,167 @@
+[
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "category": "Chatbot",
+    "pricing": "Free + Paid",
+    "link": "https://chat.openai.com/",
+    "description": "AI chatbot by OpenAI for conversations, coding help, and research.",
+    "rating": 4.8,
+    "popularity": 95,
+    "featured": true
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "category": "Chatbot",
+    "pricing": "Free + Paid",
+    "link": "https://claude.ai/",
+    "description": "Anthropic's AI assistant for analysis, writing, and conversation.",
+    "rating": 4.7,
+    "popularity": 88,
+    "featured": true
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "category": "Image Generation",
+    "pricing": "Free Trial + Paid",
+    "link": "https://midjourney.com/",
+    "description": "AI art generator creating stunning images from text prompts.",
+    "rating": 4.9,
+    "popularity": 92,
+    "featured": true
+  },
+  {
+    "id": "dall-e",
+    "name": "DALL-E 3",
+    "category": "Image Generation",
+    "pricing": "Free + Paid",
+    "link": "https://openai.com/dall-e-3",
+    "description": "OpenAI's image generation model for creative visual content.",
+    "rating": 4.6,
+    "popularity": 85,
+    "featured": false
+  },
+  {
+    "id": "github-copilot",
+    "name": "GitHub Copilot",
+    "category": "Coding",
+    "pricing": "Free + Paid",
+    "link": "https://github.com/features/copilot",
+    "description": "AI pair programmer that helps you write code faster.",
+    "rating": 4.5,
+    "popularity": 89,
+    "featured": true
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "category": "Coding",
+    "pricing": "Free + Paid",
+    "link": "https://cursor.sh/",
+    "description": "AI-powered code editor built for productivity.",
+    "rating": 4.7,
+    "popularity": 78,
+    "featured": false
+  },
+  {
+    "id": "grammarly",
+    "name": "Grammarly",
+    "category": "Writing",
+    "pricing": "Free + Paid",
+    "link": "https://grammarly.com/",
+    "description": "AI writing assistant for grammar, spelling, and style.",
+    "rating": 4.4,
+    "popularity": 91,
+    "featured": false
+  },
+  {
+    "id": "notion-ai",
+    "name": "Notion AI",
+    "category": "Productivity",
+    "pricing": "Free + Paid",
+    "link": "https://notion.so/product/ai",
+    "description": "AI-powered writing and productivity features in Notion.",
+    "rating": 4.3,
+    "popularity": 82,
+    "featured": false
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity AI",
+    "category": "Research",
+    "pricing": "Free + Paid",
+    "link": "https://perplexity.ai/",
+    "description": "AI search engine that provides accurate answers with sources.",
+    "rating": 4.6,
+    "popularity": 76,
+    "featured": true
+  },
+  {
+    "id": "runwayml",
+    "name": "Runway ML",
+    "category": "Video",
+    "pricing": "Free Trial + Paid",
+    "link": "https://runwayml.com/",
+    "description": "AI video generation and editing tools for creators.",
+    "rating": 4.5,
+    "popularity": 73,
+    "featured": false
+  },
+  {
+    "id": "mubert",
+    "name": "Mubert",
+    "category": "Music",
+    "pricing": "Free + Paid",
+    "link": "https://mubert.com/",
+    "description": "AI music generation platform for royalty-free tracks.",
+    "rating": 4.2,
+    "popularity": 65,
+    "featured": false
+  },
+  {
+    "id": "stable-diffusion",
+    "name": "Stable Diffusion",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "link": "https://stability.ai/stable-diffusion",
+    "description": "Open-source AI model for generating images from text.",
+    "rating": 4.4,
+    "popularity": 87,
+    "featured": false
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "category": "Research",
+    "pricing": "Free + Paid",
+    "link": "https://huggingface.co/",
+    "description": "Platform for machine learning models and datasets.",
+    "rating": 4.7,
+    "popularity": 79,
+    "featured": false
+  },
+  {
+    "id": "jasper",
+    "name": "Jasper AI",
+    "category": "Writing",
+    "pricing": "Free Trial + Paid",
+    "link": "https://jasper.ai/",
+    "description": "AI content creation platform for marketing and writing.",
+    "rating": 4.3,
+    "popularity": 71,
+    "featured": false
+  },
+  {
+    "id": "copy-ai",
+    "name": "Copy.ai",
+    "category": "Writing",
+    "pricing": "Free + Paid",
+    "link": "https://copy.ai/",
+    "description": "AI copywriting tool for marketing content and social media.",
+    "rating": 4.1,
+    "popularity": 68,
+    "featured": false
+  }
+]
