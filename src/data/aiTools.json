@@ -77,6 +77,39 @@
     "featured": false
   },
   {
+    "id": "bard",
+    "name": "Google Bard",
+    "category": "Chatbot",
+    "pricing": "Free",
+    "link": "https://bard.google.com/",
+    "description": "Google's AI chatbot powered by LaMDA and PaLM.",
+    "rating": 4.4,
+    "popularity": 82,
+    "featured": true
+  },
+  {
+    "id": "bing-chat",
+    "name": "Microsoft Copilot",
+    "category": "Chatbot",
+    "pricing": "Free",
+    "link": "https://copilot.microsoft.com/",
+    "description": "Microsoft's AI assistant integrated with Bing search.",
+    "rating": 4.3,
+    "popularity": 79,
+    "featured": true
+  },
+  {
+    "id": "poe",
+    "name": "Poe",
+    "category": "Chatbot",
+    "pricing": "Free + Paid",
+    "link": "https://poe.com/",
+    "description": "Quora's platform for accessing multiple AI chatbots.",
+    "rating": 4.1,
+    "popularity": 67,
+    "featured": false
+  },
+  {
     "id": "midjourney",
     "name": "Midjourney",
     "category": "Image Generation",
@@ -110,6 +143,39 @@
     "featured": false
   },
   {
+    "id": "leonardo-ai",
+    "name": "Leonardo AI",
+    "category": "Image Generation",
+    "pricing": "Free + Paid",
+    "link": "https://leonardo.ai/",
+    "description": "AI image generation with fine-tuned models for different styles.",
+    "rating": 4.5,
+    "popularity": 78,
+    "featured": true
+  },
+  {
+    "id": "firefly",
+    "name": "Adobe Firefly",
+    "category": "Image Generation",
+    "pricing": "Free + Paid",
+    "link": "https://firefly.adobe.com/",
+    "description": "Adobe's AI image generator integrated with Creative Suite.",
+    "rating": 4.4,
+    "popularity": 81,
+    "featured": true
+  },
+  {
+    "id": "imagen",
+    "name": "Google Imagen",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "link": "https://imagen.research.google/",
+    "description": "Google's high-quality text-to-image generation model.",
+    "rating": 4.5,
+    "popularity": 73,
+    "featured": false
+  },
+  {
     "id": "canva-ai",
     "name": "Canva AI",
     "category": "Image Generation",
@@ -140,6 +206,50 @@
     "description": "Free AI tools for text-to-image, face recognition, and more.",
     "rating": 4.2,
     "popularity": 70,
+    "featured": false
+  },
+  {
+    "id": "playground-ai",
+    "name": "Playground AI",
+    "category": "Image Generation",
+    "pricing": "Free + Paid",
+    "link": "https://playgroundai.com/",
+    "description": "AI image generation platform with multiple models.",
+    "rating": 4.3,
+    "popularity": 72,
+    "featured": false
+  },
+  {
+    "id": "nightcafe",
+    "name": "NightCafe",
+    "category": "Image Generation",
+    "pricing": "Free + Paid",
+    "link": "https://nightcafe.studio/",
+    "description": "AI art generator with community features and multiple algorithms.",
+    "rating": 4.2,
+    "popularity": 69,
+    "featured": false
+  },
+  {
+    "id": "dreamstudio",
+    "name": "DreamStudio",
+    "category": "Image Generation",
+    "pricing": "Free Trial + Paid",
+    "link": "https://beta.dreamstudio.ai/",
+    "description": "Stability AI's official interface for Stable Diffusion.",
+    "rating": 4.3,
+    "popularity": 71,
+    "featured": false
+  },
+  {
+    "id": "bluewillow",
+    "name": "BlueWillow",
+    "category": "Image Generation",
+    "pricing": "Free + Paid",
+    "link": "https://bluewillow.ai/",
+    "description": "Discord-based AI image generator alternative to Midjourney.",
+    "rating": 4.0,
+    "popularity": 64,
     "featured": false
   },
   {
@@ -228,6 +338,39 @@
     "description": "AI collaborative platform for creating generative art.",
     "rating": 4.4,
     "popularity": 71,
+    "featured": false
+  },
+  {
+    "id": "upscale",
+    "name": "Upscale.media",
+    "category": "Image",
+    "pricing": "Free + Paid",
+    "link": "https://upscale.media/",
+    "description": "AI image upscaler for enhancing photo resolution.",
+    "rating": 4.3,
+    "popularity": 68,
+    "featured": false
+  },
+  {
+    "id": "topazlabs",
+    "name": "Topaz Labs AI",
+    "category": "Image",
+    "pricing": "Paid",
+    "link": "https://topazlabs.com/",
+    "description": "Professional AI photo enhancement software suite.",
+    "rating": 4.6,
+    "popularity": 75,
+    "featured": true
+  },
+  {
+    "id": "photoleap",
+    "name": "Photoleap",
+    "category": "Image",
+    "pricing": "Free + Paid",
+    "link": "https://photoleapapp.com/",
+    "description": "AI photo editing app with advanced creative tools.",
+    "rating": 4.4,
+    "popularity": 69,
     "featured": false
   },
   {
@@ -361,6 +504,39 @@
     "rating": 4.6,
     "popularity": 83,
     "featured": true
+  },
+  {
+    "id": "replit-ghostwriter",
+    "name": "Replit Ghostwriter",
+    "category": "Coding",
+    "pricing": "Free + Paid",
+    "link": "https://replit.com/",
+    "description": "AI coding assistant integrated into Replit IDE.",
+    "rating": 4.3,
+    "popularity": 66,
+    "featured": false
+  },
+  {
+    "id": "codewp",
+    "name": "CodeWP",
+    "category": "Coding",
+    "pricing": "Free + Paid",
+    "link": "https://codewp.ai/",
+    "description": "AI code generator specialized for WordPress development.",
+    "rating": 4.1,
+    "popularity": 59,
+    "featured": false
+  },
+  {
+    "id": "aicommits",
+    "name": "AICommits",
+    "category": "Coding",
+    "pricing": "Free",
+    "link": "https://github.com/Nutlope/aicommits",
+    "description": "AI tool for generating meaningful Git commit messages.",
+    "rating": 4.2,
+    "popularity": 61,
+    "featured": false
   },
   {
     "id": "grammarly",
@@ -671,6 +847,28 @@
     "featured": true
   },
   {
+    "id": "longshot",
+    "name": "LongShot AI",
+    "category": "Writing",
+    "pricing": "Free Trial + Paid",
+    "link": "https://longshot.ai/",
+    "description": "AI writing assistant for long-form content and research.",
+    "rating": 4.2,
+    "popularity": 67,
+    "featured": false
+  },
+  {
+    "id": "contentbot",
+    "name": "ContentBot",
+    "category": "Writing",
+    "pricing": "Free Trial + Paid",
+    "link": "https://contentbot.ai/",
+    "description": "AI content generator for blogs, ads, and social media.",
+    "rating": 4.1,
+    "popularity": 63,
+    "featured": false
+  },
+  {
     "id": "perplexity",
     "name": "Perplexity AI",
     "category": "Research",
@@ -767,6 +965,28 @@
     "description": "AI-powered social highlighting tool for the web.",
     "rating": 4.1,
     "popularity": 60,
+    "featured": false
+  },
+  {
+    "id": "semantic-scholar",
+    "name": "Semantic Scholar",
+    "category": "Research",
+    "pricing": "Free",
+    "link": "https://semanticscholar.org/",
+    "description": "AI-powered academic search engine by Allen Institute.",
+    "rating": 4.4,
+    "popularity": 72,
+    "featured": false
+  },
+  {
+    "id": "researchgate",
+    "name": "ResearchGate",
+    "category": "Research",
+    "pricing": "Free",
+    "link": "https://researchgate.net/",
+    "description": "Academic network with AI-powered paper recommendations.",
+    "rating": 4.2,
+    "popularity": 78,
     "featured": false
   },
   {
@@ -946,6 +1166,28 @@
     "featured": false
   },
   {
+    "id": "zapier",
+    "name": "Zapier AI",
+    "category": "Productivity",
+    "pricing": "Free + Paid",
+    "link": "https://zapier.com/",
+    "description": "AI-powered automation platform for connecting apps.",
+    "rating": 4.4,
+    "popularity": 84,
+    "featured": true
+  },
+  {
+    "id": "monday-ai",
+    "name": "Monday.com AI",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "link": "https://monday.com/",
+    "description": "AI features in Monday's project management platform.",
+    "rating": 4.3,
+    "popularity": 71,
+    "featured": false
+  },
+  {
     "id": "runwayml",
     "name": "Runway ML",
     "category": "Video",
@@ -1111,6 +1353,28 @@
     "featured": true
   },
   {
+    "id": "kaiber",
+    "name": "Kaiber",
+    "category": "Video",
+    "pricing": "Free Trial + Paid",
+    "link": "https://kaiber.ai/",
+    "description": "AI video generation tool for music videos and creative content.",
+    "rating": 4.3,
+    "popularity": 68,
+    "featured": false
+  },
+  {
+    "id": "stable-video",
+    "name": "Stable Video Diffusion",
+    "category": "Video",
+    "pricing": "Free",
+    "link": "https://stability.ai/",
+    "description": "Open-source AI model for video generation by Stability AI.",
+    "rating": 4.2,
+    "popularity": 66,
+    "featured": false
+  },
+  {
     "id": "mubert",
     "name": "Mubert",
     "category": "Music",
@@ -1150,8 +1414,41 @@
     "pricing": "Free + Paid",
     "link": "https://boomy.com/",
     "description": "AI music generator that lets users create tracks quickly.",
-    "rating": 4,
+    "rating": 4.0,
     "popularity": 61,
+    "featured": false
+  },
+  {
+    "id": "beatoven",
+    "name": "Beatoven.ai",
+    "category": "Music",
+    "pricing": "Free + Paid",
+    "link": "https://beatoven.ai/",
+    "description": "AI music generator for custom background music.",
+    "rating": 4.3,
+    "popularity": 63,
+    "featured": false
+  },
+  {
+    "id": "endel",
+    "name": "Endel",
+    "category": "Music",
+    "pricing": "Free + Paid",
+    "link": "https://endel.io/",
+    "description": "AI-powered adaptive music for focus, relaxation, and sleep.",
+    "rating": 4.4,
+    "popularity": 67,
+    "featured": false
+  },
+  {
+    "id": "udio",
+    "name": "Udio",
+    "category": "Music",
+    "pricing": "Free + Paid",
+    "link": "https://udio.com/",
+    "description": "AI music generation tool for creating songs with vocals.",
+    "rating": 4.3,
+    "popularity": 69,
     "featured": false
   },
   {
@@ -1208,6 +1505,28 @@
     "rating": 4.3,
     "popularity": 74,
     "featured": false
+  },
+  {
+    "id": "temi",
+    "name": "Temi",
+    "category": "Transcription",
+    "pricing": "Paid",
+    "link": "https://temi.com/",
+    "description": "AI-powered transcription service with fast turnaround.",
+    "rating": 4.1,
+    "popularity": 65,
+    "featured": false
+  },
+  {
+    "id": "whisper",
+    "name": "OpenAI Whisper",
+    "category": "Transcription",
+    "pricing": "Free",
+    "link": "https://openai.com/research/whisper",
+    "description": "Open-source speech recognition system by OpenAI.",
+    "rating": 4.7,
+    "popularity": 81,
+    "featured": true
   },
   {
     "id": "resemble-ai",
@@ -1276,6 +1595,39 @@
     "featured": false
   },
   {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "Voice",
+    "pricing": "Free + Paid",
+    "link": "https://elevenlabs.io/",
+    "description": "Advanced AI voice generation and cloning platform.",
+    "rating": 4.7,
+    "popularity": 86,
+    "featured": true
+  },
+  {
+    "id": "murf",
+    "name": "Murf AI",
+    "category": "Voice",
+    "pricing": "Free + Paid",
+    "link": "https://murf.ai/",
+    "description": "AI voice generator for professional voiceovers.",
+    "rating": 4.4,
+    "popularity": 73,
+    "featured": false
+  },
+  {
+    "id": "speechify",
+    "name": "Speechify",
+    "category": "Voice",
+    "pricing": "Free + Paid",
+    "link": "https://speechify.com/",
+    "description": "AI text-to-speech app for reading content aloud.",
+    "rating": 4.5,
+    "popularity": 79,
+    "featured": false
+  },
+  {
     "id": "cleanvoice",
     "name": "Cleanvoice AI",
     "category": "Audio",
@@ -1295,6 +1647,17 @@
     "description": "AI platform for recording, editing, and enhancing podcasts.",
     "rating": 4.4,
     "popularity": 72,
+    "featured": false
+  },
+  {
+    "id": "adobe-podcast",
+    "name": "Adobe Podcast",
+    "category": "Podcast",
+    "pricing": "Free",
+    "link": "https://podcast.adobe.com/",
+    "description": "AI-powered podcast recording and editing tools.",
+    "rating": 4.3,
+    "popularity": 70,
     "featured": false
   },
   {
@@ -1318,6 +1681,28 @@
     "rating": 4.6,
     "popularity": 77,
     "featured": true
+  },
+  {
+    "id": "ahrefs-ai",
+    "name": "Ahrefs AI",
+    "category": "SEO",
+    "pricing": "Paid",
+    "link": "https://ahrefs.com/",
+    "description": "AI features in Ahrefs SEO toolset for keyword research.",
+    "rating": 4.5,
+    "popularity": 82,
+    "featured": true
+  },
+  {
+    "id": "semrush-ai",
+    "name": "Semrush AI",
+    "category": "SEO",
+    "pricing": "Paid",
+    "link": "https://semrush.com/",
+    "description": "AI-powered SEO features in Semrush platform.",
+    "rating": 4.4,
+    "popularity": 80,
+    "featured": false
   },
   {
     "id": "postwise",
@@ -1386,6 +1771,28 @@
     "featured": false
   },
   {
+    "id": "buffer",
+    "name": "Buffer AI",
+    "category": "Social Media",
+    "pricing": "Free + Paid",
+    "link": "https://buffer.com/",
+    "description": "AI-powered social media management and analytics platform.",
+    "rating": 4.3,
+    "popularity": 76,
+    "featured": false
+  },
+  {
+    "id": "hootsuite-ai",
+    "name": "Hootsuite AI",
+    "category": "Social Media",
+    "pricing": "Paid",
+    "link": "https://hootsuite.com/",
+    "description": "AI features in Hootsuite's social media management suite.",
+    "rating": 4.2,
+    "popularity": 74,
+    "featured": false
+  },
+  {
     "id": "jounce",
     "name": "Jounce AI",
     "category": "Marketing",
@@ -1394,6 +1801,28 @@
     "description": "AI marketing copy generator with unlimited free plan.",
     "rating": 4.0,
     "popularity": 58,
+    "featured": false
+  },
+  {
+    "id": "hubspot-ai",
+    "name": "HubSpot AI",
+    "category": "Marketing",
+    "pricing": "Free + Paid",
+    "link": "https://hubspot.com/",
+    "description": "AI features integrated into HubSpot's CRM and marketing platform.",
+    "rating": 4.4,
+    "popularity": 83,
+    "featured": true
+  },
+  {
+    "id": "salesforce-ai",
+    "name": "Salesforce Einstein",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "link": "https://salesforce.com/products/einstein/",
+    "description": "AI platform built into Salesforce CRM for sales and marketing.",
+    "rating": 4.3,
+    "popularity": 79,
     "featured": false
   },
   {
@@ -1427,6 +1856,17 @@
     "description": "AI assistant for generating and organizing project documentation.",
     "rating": 4.1,
     "popularity": 59,
+    "featured": false
+  },
+  {
+    "id": "gitiles",
+    "name": "GitBook AI",
+    "category": "Documentation",
+    "pricing": "Free + Paid",
+    "link": "https://gitbook.com/",
+    "description": "AI-powered documentation platform for teams.",
+    "rating": 4.3,
+    "popularity": 67,
     "featured": false
   },
   {
@@ -1525,6 +1965,215 @@
     "link": "https://khroma.co/",
     "description": "AI tool for generating personalized color palettes.",
     "rating": 4.2,
+    "popularity": 62,
+    "featured": false
+  },
+  {
+    "id": "framer-ai",
+    "name": "Framer AI",
+    "category": "UI Design",
+    "pricing": "Free + Paid",
+    "link": "https://framer.com/",
+    "description": "AI website builder with advanced design capabilities.",
+    "rating": 4.4,
+    "popularity": 75,
+    "featured": false
+  },
+  {
+    "id": "relume",
+    "name": "Relume",
+    "category": "UI Design",
+    "pricing": "Free + Paid",
+    "link": "https://relume.io/",
+    "description": "AI-powered website builder with component library.",
+    "rating": 4.3,
+    "popularity": 69,
+    "featured": false
+  },
+  {
+    "id": "chatgpt-plugins",
+    "name": "ChatGPT Plugins",
+    "category": "Integration",
+    "pricing": "Paid",
+    "link": "https://openai.com/blog/chatgpt-plugins",
+    "description": "Third-party integrations that extend ChatGPT's capabilities.",
+    "rating": 4.2,
+    "popularity": 71,
+    "featured": false
+  },
+  {
+    "id": "langchain",
+    "name": "LangChain",
+    "category": "Development",
+    "pricing": "Free",
+    "link": "https://langchain.com/",
+    "description": "Framework for developing applications powered by language models.",
+    "rating": 4.5,
+    "popularity": 76,
+    "featured": true
+  },
+  {
+    "id": "autogpt",
+    "name": "AutoGPT",
+    "category": "Automation",
+    "pricing": "Free",
+    "link": "https://github.com/Significant-Gravitas/Auto-GPT",
+    "description": "Open-source attempt to make GPT-4 fully autonomous.",
+    "rating": 4.1,
+    "popularity": 68,
+    "featured": false
+  },
+  {
+    "id": "langflow",
+    "name": "Langflow",
+    "category": "Development",
+    "pricing": "Free",
+    "link": "https://langflow.org/",
+    "description": "Visual framework for building AI applications with drag-and-drop.",
+    "rating": 4.2,
+    "popularity": 61,
+    "featured": false
+  },
+  {
+    "id": "vectorshift",
+    "name": "VectorShift",
+    "category": "Development",
+    "pricing": "Free + Paid",
+    "link": "https://vectorshift.ai/",
+    "description": "No-code platform for building AI-powered applications.",
+    "rating": 4.1,
+    "popularity": 59,
+    "featured": false
+  },
+  {
+    "id": "retune",
+    "name": "Retune",
+    "category": "Development",
+    "pricing": "Free + Paid",
+    "link": "https://retune.so/",
+    "description": "Platform for building and deploying custom AI models.",
+    "rating": 4.0,
+    "popularity": 56,
+    "featured": false
+  },
+  {
+    "id": "anthropic-claude-api",
+    "name": "Claude API",
+    "category": "API",
+    "pricing": "Paid",
+    "link": "https://console.anthropic.com/",
+    "description": "API access to Claude AI models for developers.",
+    "rating": 4.6,
+    "popularity": 73,
+    "featured": true
+  },
+  {
+    "id": "openai-api",
+    "name": "OpenAI API",
+    "category": "API",
+    "pricing": "Paid",
+    "link": "https://platform.openai.com/",
+    "description": "API platform for GPT models and other AI services.",
+    "rating": 4.7,
+    "popularity": 89,
+    "featured": true
+  },
+  {
+    "id": "cohere-api",
+    "name": "Cohere API",
+    "category": "API",
+    "pricing": "Free + Paid",
+    "link": "https://cohere.ai/",
+    "description": "Natural language API for enterprise applications.",
+    "rating": 4.3,
+    "popularity": 64,
+    "featured": false
+  },
+  {
+    "id": "ai21-api",
+    "name": "AI21 Labs API",
+    "category": "API",
+    "pricing": "Free + Paid",
+    "link": "https://ai21.com/",
+    "description": "API for Jurassic language models and AI writing tools.",
+    "rating": 4.2,
+    "popularity": 58,
+    "featured": false
+  },
+  {
+    "id": "replicate-api",
+    "name": "Replicate API",
+    "category": "API",
+    "pricing": "Paid",
+    "link": "https://replicate.com/",
+    "description": "Cloud API for running machine learning models.",
+    "rating": 4.4,
+    "popularity": 67,
+    "featured": false
+  },
+  {
+    "id": "stability-api",
+    "name": "Stability AI API",
+    "category": "API",
+    "pricing": "Paid",
+    "link": "https://platform.stability.ai/",
+    "description": "API access to Stable Diffusion and other generative models.",
+    "rating": 4.3,
+    "popularity": 69,
+    "featured": false
+  },
+  {
+    "id": "palm-api",
+    "name": "Google PaLM API",
+    "category": "API",
+    "pricing": "Free + Paid",
+    "link": "https://developers.generativeai.google/",
+    "description": "Google's generative AI API for developers.",
+    "rating": 4.2,
+    "popularity": 66,
+    "featured": false
+  },
+  {
+    "id": "aws-bedrock",
+    "name": "AWS Bedrock",
+    "category": "Cloud AI",
+    "pricing": "Paid",
+    "link": "https://aws.amazon.com/bedrock/",
+    "description": "Fully managed service for foundation models on AWS.",
+    "rating": 4.3,
+    "popularity": 71,
+    "featured": false
+  },
+  {
+    "id": "azure-openai",
+    "name": "Azure OpenAI",
+    "category": "Cloud AI",
+    "pricing": "Paid",
+    "link": "https://azure.microsoft.com/en-us/products/cognitive-services/openai-service",
+    "description": "OpenAI models available through Microsoft Azure.",
+    "rating": 4.4,
+    "popularity": 74,
+    "featured": false
+  },
+  {
+    "id": "google-vertex",
+    "name": "Google Vertex AI",
+    "category": "Cloud AI",
+    "pricing": "Paid",
+    "link": "https://cloud.google.com/vertex-ai",
+    "description": "Google's unified ML platform for building AI applications.",
+    "rating": 4.2,
+    "popularity": 68,
+    "featured": false
+  },
+  {
+    "id": "ibm-watson",
+    "name": "IBM Watson",
+    "category": "Enterprise AI",
+    "pricing": "Paid",
+    "link": "https://ibm.com/watson",
+    "description": "Enterprise AI platform with various business applications.",
+    "rating": 4.1,
     "popularity": 62,
     "featured": false
   }
