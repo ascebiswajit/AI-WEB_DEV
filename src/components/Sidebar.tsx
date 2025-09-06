@@ -28,7 +28,7 @@ export function Sidebar({
   isOpen,
   onClose,
 }: SidebarProps) {
-  const pricingOptions = ['Free', 'Free + Paid', 'Free Trial + Paid'];
+  const pricingOptions = ['Free', 'Free + Paid', 'Free Trial + Paid', 'Paid'];
 
   return (
     <>
